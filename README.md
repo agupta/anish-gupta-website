@@ -16,3 +16,4 @@ TODO:
 - Add links to LinkedIn etc sooner.
 - Add dates to experiences.
 - Rethink experiences section?
+- Change the favicon.
