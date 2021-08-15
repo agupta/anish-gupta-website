@@ -34,26 +34,18 @@ export const projectsData = [
     position: 'Trading Intern',
     company: 'Mako Trading',
     companyUrl: 'https://www.mako.com/',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     position: 'Cofounder and CTO',
     company: 'Cede',
     companyUrl: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     position: 'Undergraduate Researcher',
     company: 'Warwick Mathematics Institute',
-    companyUrl: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    companyUrl: 'https://warwick.ac.uk/fac/sci/maths/',
   },
 ];
 

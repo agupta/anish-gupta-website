@@ -38,6 +38,11 @@
         font-weight: bold;
         margin-bottom: 1.8rem;
         font-size: $mid-font-size;
+        
+        a {
+          font-size: $mid-font-size;
+          color: inherit;
+        }
 
         @include respond(phone) {
           font-size: 2rem;

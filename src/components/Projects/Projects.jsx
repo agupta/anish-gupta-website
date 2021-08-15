@@ -146,7 +146,7 @@ const Projects = () => {
                       <h3 className="project-wrapper__text-title">
                         <a
                           href={companyUrl || '#!'}
-                          target="_blank"
+                          target={companyUrl && '_blank'}
                           aria-label="Company Link"
                           rel="noopener noreferrer"
                         >
