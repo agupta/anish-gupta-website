@@ -4,7 +4,8 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Anish Gupta', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Anish Gupta is a ', // e.g: Welcome to my website
+  description:
+    'The personal website of Anish Gupta, a mathematics undergraduate at the University of Warwick.', // e.g: Welcome to my website
 };
 
 // HERO DATA
