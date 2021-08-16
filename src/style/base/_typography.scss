@@ -18,6 +18,17 @@ a:active {
   text-decoration: none;
 }
 
+p {
+  a,
+a:link,
+a:hover,
+a:visited,
+a:active {
+  text-decoration: none;
+  color: #00ffa0;
+}
+}
+
 a:hover {
   transition: all 0.3s ease-in-out;
 }

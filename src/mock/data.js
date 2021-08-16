@@ -19,13 +19,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne:
-    "I'm going into my third year as a mathematics undergraduate at the University of Warwick. I have experience in market making, software development, entrepreneurship, and mathematics research. I combine a quantitative mindset with very strong analytical and problem-solving skills (expected 1st, IMC 2021 Second Prize). My variety of experiences have equipped me with confident ability to articulate and communicate complex ideas in simple terms.",
-  paragraphTwo:
-    "I'm a confident programmer, with deepest knowledge of Python but have used many languages over my life including C++ and JavaScript. I've done a few projects involving machine learning (ML), and I'm quickly and constantly learning more and more.",
-  paragraphThree:
-    "In my spare time I like to play speed chess and poker online. I'm also a rower in my university's boat club. I've played guitar in jazz concerts and on the streets of Brighton.",
-  resume: '', // if no resume, the button will not show up
+  resume: 'CV_web.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
