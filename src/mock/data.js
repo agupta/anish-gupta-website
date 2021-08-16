@@ -74,6 +74,11 @@ export const footerData = {
       name: 'facebook',
       url: 'https://www.facebook.com/anishgupta6',
     },
+    {
+      id: nanoid(),
+      name: 'twitter',
+      url: 'https://twitter.com/_agpta',
+    },
   ],
 };
 
