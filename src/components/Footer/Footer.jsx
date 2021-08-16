@@ -24,13 +24,7 @@ const Footer = () => {
             networks.map((network) => {
               const { id, name, url } = network;
               return (
-                <a
-                  key={id}
-                  href={url || 'https://github.com/cobidev/gatsby-simplefolio'}
-                  rel="noopener noreferrer"
-                  target="_blank"
-                  aria-label={name}
-                >
+                <a key={id} href={url || '#!'} target="_blank" aria-label={name} rel="noreferrer">
                   <i className={`fa fa-${name || 'refresh'} fa-inverse`} />
                 </a>
               );

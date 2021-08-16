@@ -19,9 +19,9 @@ const Contact = () => {
             </p>
             <a
               target="_blank"
-              rel="noopener noreferrer"
               className="cta-btn cta-btn--resume"
               href="https://forms.gle/LEJ6yC8q7G7ZJpJN9"
+              rel="noreferrer"
             >
               {btn || "Let's Talk"}
             </a>

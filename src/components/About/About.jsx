@@ -62,8 +62,8 @@ const About = () => {
                   very strong analytical and problem-solving skills (expected 1st,{' '}
                   <a
                     target="_blank"
-                    rel="noopener noreferrer"
                     href="https://www.imc-math.org.uk/index.php?year=2021"
+                    rel="noreferrer"
                   >
                     IMC 2021
                   </a>{' '}
@@ -78,23 +78,14 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   In my spare time I like to play{' '}
-                  <a
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    href="https://lichess.org/@/NeggyZero"
-                  >
+                  <a target="_blank" href="https://lichess.org/@/NeggyZero" rel="noreferrer">
                     speed chess
                   </a>{' '}
                   and poker online. I&apos;m also a rower in my university&apos;s boat club.
                   I&apos;ve played guitar in jazz concerts and on the streets of Brighton.
                 </p>
                 <span className="d-flex mt-3">
-                  <a
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="cta-btn cta-btn--resume"
-                    href={CV}
-                  >
+                  <a target="_blank" className="cta-btn cta-btn--resume" href={CV} rel="noreferrer">
                     CV
                   </a>
                 </span>
