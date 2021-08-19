@@ -12,7 +12,6 @@ Based on https://github.com/cobidev/gatsby-simplefolio.
 
 TODO:
 
-- Add Google Analytics.
 - Add links to LinkedIn etc sooner.
 - Add dates to experiences.
 - Rethink experiences section?
