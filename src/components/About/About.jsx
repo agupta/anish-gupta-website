@@ -56,10 +56,10 @@ const About = () => {
             <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
-                  I&apos;m going into my third year as a mathematics undergraduate at the University
-                  of Warwick. I have experience in market making, software development,
-                  entrepreneurship, and mathematics research. I combine a quantitative mindset with
-                  very strong analytical and problem-solving skills (expected 1st,{' '}
+                  I&apos;m a third year mathematics undergraduate at the University of Warwick. I
+                  have experience in market making, software development, entrepreneurship, and
+                  mathematics research. I combine a quantitative mindset with very strong analytical
+                  and problem-solving skills (expected 1st,{' '}
                   <a
                     target="_blank"
                     href="https://www.imc-math.org.uk/index.php?year=2021"
